@@ -13,5 +13,9 @@
 /*.pidb
 /*.booproj
 
+*.7z
+*.rar
+*.zip
+
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
